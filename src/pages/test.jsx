@@ -14,7 +14,7 @@ function RoomPage() {
       case 'Razala':
         return <h1>page</h1>;
       case 'Rita':
-        return <div className='relative'>Rita Component Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta eos minus debitis voluptate, cum aperiam corporis nostrum? Molestiae voluptatem deserunt quisquam deleniti nam a commodi nostrum ipsam consectetur, quaerat in.</div>;
+        return <div className='relative'>Rita Component Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta eos minus debitis voluptate, cum aperiam corporis nostrum? Molestiae voluptatem deserunt quisquam deleniti nam a commodi nostrum ipsam consectetur, quaerat in.run</div>;
       case 'Yara':
         return <div>Yara Component</div>;
       case 'Lala Habiba':
