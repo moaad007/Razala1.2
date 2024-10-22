@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter>
     <Routes>
       
-      <Route path='/' Component={HomePage}/>
+      <Route path='/Razala1.2/' Component={HomePage}/>
       <Route path='/pages/RoomPage' Component={Rooms}/>
       <Route path="/pages/test"     Component={RoomPage} />
     
