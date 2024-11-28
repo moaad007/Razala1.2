@@ -8,18 +8,18 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
- <Route path='/Razala1.2/' element={<HomePage />} />
+    <Route path='/Razala1.2/' element={<HomePage />} />
       <Route path='/Razala1.2/pages/RoomPage' element={<Rooms />} />
       <Route path= '/Razala1.2/pages/test' element={<RoomPage />} /> 
     </Routes>
 
-    </Routes>
+    
 
 
-    </BrowserRouter>
+  </BrowserRouter>
 
-  )
+  
 
-
+)
 }
 export default App
